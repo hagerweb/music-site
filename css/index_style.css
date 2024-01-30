@@ -1,0 +1,104 @@
+#home{
+    position: relative;
+    height: 100vh;
+    background: linear-gradient(rgba(20, 130, 154, 0.5)0% 100%),url('../Images/events-heavenly-header.jpg');
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+#home h2{
+   
+    font-size: 50px;
+    color: white;
+  
+}
+html , body{
+    scroll-behavior: auto !important;
+}
+.bg-pink{
+    background-color:rgb(22, 133, 158);
+}
+.bg-gray{
+    background-color: rgb(188, 185, 185);
+}
+.side{
+    position: absolute;
+    left: 0;
+}
+ul{
+    position: relative;
+    background-color: rgb(20, 130, 154);
+    top:0;
+    bottom: 0;
+	height: 100vh;
+
+    
+}
+
+
+ul li {
+    font-size: 25px;
+    margin-top: 20px;
+    padding-bottom: 15px;
+    padding-inline: 30px;
+}
+.close{
+    position: absolute;
+    top: 10;
+    right: 10;
+    
+}
+.icon{
+    /* margin-top: 50%; */
+    margin-left: 10px;
+}
+h2{
+    cursor: pointer;
+}
+p{
+    display: none;
+}
+#countdown{
+	background: linear-gradient(rgba(20, 130, 154, 0.5)0% 100%),url('../Images/invitation-2508607__340.jpg');
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+}
+.col-md-3 {
+	
+	border: 1px white solid;
+       padding-block: 60px;
+	   font-size: 30px;
+	
+	/* margin-left: 5px;
+	font-size: 30px; */
+}
+#contact h2{
+    margin-top: 25px;
+    color: rgb(20, 130, 154);
+    font-size:40px;
+}
+contact# h3{
+    color: rgb(20, 130, 154); 
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.social-list{
+    color: rgb(20, 130, 154);
+
+}
+.btn{
+    background-color:rgb(20, 130, 154); 
+    color: white;
+    display: block;
+    margin-top: 20px;
+}
+#contact span{
+    color: rgb(20, 130, 154); 
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
